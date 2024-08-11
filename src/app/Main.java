@@ -47,7 +47,7 @@ public class Main {
         System.out.println(" Its your power number("+ firstNumber + "^" + secondNumber +") is :" + result);
 
         //строчка n-кол.раз
-        System.out.println("Please enter your number ( how many times to repeat) :");
+        System.out.println("Please enter your number ( how many times to repeat)  :");
         int repeatN = scanner.nextInt();
         scanner.nextLine();
         System.out.println("Please enter your string : ");
